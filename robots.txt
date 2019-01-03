@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin.php
+Disallow: /fk.php
+Disallow: /payfk.php
+Disallow: /promo.php
+Disallow: /stories.php
+Disallow: /action.php
+Disallow: /success.php
+Disallow: /fail.php
+Disallow: /files/
+Disallow: /img/
